@@ -3,3 +3,6 @@
 PASSWORD=$(date +%s)
 echo "${PASSWORD}"
 echo "HelloWorld"
+echo "Hi Jenkins"
+echo "My"
+echo "World"
